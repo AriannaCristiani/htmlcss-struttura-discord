@@ -19,3 +19,46 @@ a {
 img {
     max-width: 100%;
 }
+
+/* BODY */
+
+body{
+    background-color: aqua;
+}
+
+/* HEADER */
+
+.main-header {
+	padding: 12px 80px;
+}
+
+.navbar {
+	display: flex;
+    align-items: center;
+	justify-content: space-between;
+    background-color: #ff8800;
+    border: solid black;
+}
+
+.main-menu {
+	display: flex;
+	gap: 20px;
+    border: solid black;
+    flex-wrap: wrap;
+    
+    
+}
+
+.logo {
+	flex-shrink: 0;
+    border: solid black
+}
+
+.navbar .registration {
+    display: block;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	line-height: 32px;
+	font-size: 14px;
+    border: solid black;
+}
