@@ -63,3 +63,21 @@ body{
 	border: dashed black;
 	line-height: 32px;
 }
+
+/* layout-1 */
+
+.section {
+	padding: 30px 0px;
+}
+
+.layout-1 {
+	background-color: rgb(9, 9, 65);
+}
+
+.container {
+	background-color: rgb(255, 86, 213);
+	border: dashed black;
+	margin-left: 90px;
+	margin-right: 90px;
+	height: 200px;
+}
