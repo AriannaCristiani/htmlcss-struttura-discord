@@ -94,7 +94,7 @@ body{
 	height: 200px;
 }
 
-.row-2 {
+.row {
 	display: flex;
 	flex-wrap: wrap;
 }
@@ -108,7 +108,13 @@ body{
 
 .col-2 {
 	width: 40%;
-	background-color: rgb(255, 121, 188);
+	background-color: rgb(255, 145, 160);
 	border: dashed black;
 	height: 200px;
+}
+
+/* layout-3 */
+
+.layout-3 {
+ background-color: gray;
 }
