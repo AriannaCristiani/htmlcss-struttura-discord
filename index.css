@@ -159,3 +159,29 @@ body{
 	border: dashed white;
 	height: 200px;
 }
+
+/* layout-7 */
+
+.layout-7{
+	background-color:rgb(32, 30, 30) ;
+	padding: 10px 20px;
+}
+
+.navbar-2 {
+	display: flex;
+    align-items: center;
+	justify-content: space-between;
+    background-color: rgb(12, 248, 197);
+	height: 40px;
+    margin-left: 90px;
+	margin-right: 90px;
+	
+	
+}
+ .flex-item-2 {
+	border: dashed black;
+	line-height: 12px;
+	background-color: rgb(255, 106, 131);
+}
+
+
