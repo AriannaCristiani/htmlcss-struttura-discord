@@ -132,3 +132,30 @@ body{
 	margin-right: 90px;
 	height: 400px;
 }
+
+/* layout-6 */
+
+.layout-6 {
+	background-color: rgb(32, 30, 30);
+}
+
+.container-6 {
+	margin-left: 90px;
+	margin-right: 90px;
+	height: 200px;
+	
+}
+
+.col-3 {
+	width: 40%;
+	background-color: rgb(253, 93, 82);
+	border: dashed black;
+	height: 200px;
+}
+
+.col-4 {
+	width: 10%;
+	background-color: rgb(0, 196, 121);
+	border: dashed white;
+	height: 200px;
+}
